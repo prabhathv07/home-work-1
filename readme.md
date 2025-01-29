@@ -1,2 +1,3 @@
 # homework1
-Hello professor 
+## Intro
+Hello, professor! 
